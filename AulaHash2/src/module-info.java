@@ -1,0 +1,2 @@
+module AulaHash2 {
+}
